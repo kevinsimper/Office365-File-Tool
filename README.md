@@ -10,6 +10,11 @@ Features:
 
 Made with Python 2.7 and WxWidgets
 
+Instructions
+--------------------
+To start the tool you have to either get the compiled .exe version 
+or download the python file and start it from commmandline.
+
 The report defined 3 kinds of errors:
 * Length Error
   The final URL when the file is uploaded to Office 365 must no be longer than 256 character,
